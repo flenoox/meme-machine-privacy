@@ -39,7 +39,7 @@ Uninstalling the extension removes all locally stored data (language preference)
 
 ## Contact
 
-For questions: (add your email)
+For questions: me@im2222.ru
 
 ## Changes
 
